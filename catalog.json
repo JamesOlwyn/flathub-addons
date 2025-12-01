@@ -1,0 +1,22 @@
+{
+  "addons": [
+    {
+      "id": "chores",
+      "name": "Chores Manager",
+      "description": "Rotate chores weekly and track completion.",
+      "category": "Household",
+      "size": "42 KB",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/JamesOlwyn/flathub-addons/releases/download/chores-1.0.0/chores-1.0.0.zip"
+    },
+    {
+      "id": "shopping",
+      "name": "Shopping List",
+      "description": "Shared shopping list for the flat.",
+      "category": "Household",
+      "size": "38 KB",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/JamesOlwyn/flathub-addons/releases/download/shopping-1.0.0/shopping-1.0.0.zip"
+    }
+  ]
+}
